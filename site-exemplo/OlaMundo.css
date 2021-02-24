@@ -1,0 +1,26 @@
+*{
+    margin: 5;
+    padding: 5;
+}
+
+#titulo{
+    font-family: sans-serif;
+    color:darkcyan;
+    margin-left: 7%;
+    margin-top: 10%;
+    margin-right: 80%;
+}
+
+#fundo{
+    background-color: cyan;
+    font-family: sans-serif;
+    font-size: 1em;
+    color: #59429d;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+#division{
+    background-color: purple;
+    margin-right: 50%;
+}
